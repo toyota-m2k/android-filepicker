@@ -1,2 +1,3 @@
 rootProject.name = "filepicker"
 include ':library'
+include ':sample'
